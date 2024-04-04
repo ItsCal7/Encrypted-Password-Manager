@@ -1,4 +1,4 @@
-# PasswordEncryption
+# Encrypted Password Manager
 This C++ program encrypts and decrypts stored usernames and passwords based on the numerical key you input.
 Each key is unique and will only return legible answers if you enter the proper key. 
 Each number in the key acts as an ASCII Caesar cypher
