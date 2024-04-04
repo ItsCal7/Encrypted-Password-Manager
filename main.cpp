@@ -56,7 +56,7 @@ bool verifyLength(string word, string key)
 
 int main()
 {
-    int key{};
+    string key{};
     cout << "What is the encryption key you are using?\n";
     cin >> key;
 
